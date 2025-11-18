@@ -7,5 +7,9 @@ MTree is a deprectaed asset from asset store, if you want more information see t
 
 ### How to use the shaders
 
-- Download and move the shader files inside your project.
+- Download and move the shader files inside your project, preferably "Shaders" folder in somewhere.
 - Change bark and leaf material shaders to "Shader Graphs/BarkShader" and "Shader Graphs/LeafShader".
+
+
+**License for MTreeWind.cs: 2020©by Maxime MTreeWind.cs is available under a Creative Commons Attribution-ShareAlike 4.0 Licence(international).**
+You will be OK to include in your game and export it. I will make my own version of scripts in my spare time.
